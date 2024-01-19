@@ -68,7 +68,7 @@ async function realtorScrap(){
   });
 
   await browser.close();
-  return JSON.stringify(listingElement, null, 2);;
+  return listingElement;
 }
 
 async function saveAsJson(filePath, data) {

@@ -1,1 +1,296 @@
-"[\n  {\n    \"broker\": \"Brokered by Prodigy Properties, LLC\",\n    \"status\": \"House for sale\",\n    \"price\": \"$47,659\",\n    \"feature\": \"3 bed 2.5 bath 1,214sqft 1,214 square feet 9,148sqft lot 9,148 square foot lot\",\n    \"address\": \"440 Briarwood Dr Columbus, OH 43213\"\n  },\n  {\n    \"broker\": \"Brokered by Red Oak Realty\",\n    \"status\": \"House for sale\",\n    \"price\": \"$185,000\",\n    \"feature\": \"2 bed 1.5 bath 1,512sqft 1,512 square feet 1.44acre lot 1.44 acre lot\",\n    \"address\": \"15018 St Rt # 116 Van Wert, OH 45891\"\n  },\n  {\n    \"broker\": \"Brokered by Exp Realty, Llc.\",\n    \"status\": \"House for sale\",\n    \"price\": \"$379,900\",\n    \"feature\": \"6 bed 4.5 bath 6,550sqft 6,550 square feet 0.65acre lot 0.65 acre lot\",\n    \"address\": \"473 Redondo Rd Youngstown, OH 44504\"\n  },\n  {\n    \"broker\": \"Brokered by Sibcy Cline - Western Hills\",\n    \"status\": \"House for sale\",\n    \"price\": \"$7,900,000\",\n    \"feature\": \"8 bed 9.5+ bath 19,496sqft 19,496 square feet 17acre lot 17 acre lot\",\n    \"address\": \"8600 Camargo Rd Indian Hill, OH 45243\"\n  },\n  {\n    \"broker\": \"Brokered by American Heritage Realty, Inc.\",\n    \"status\": \"Contingent\",\n    \"price\": \"$99,900\",\n    \"feature\": \"5 bed 1 bath 1,664sqft 1,664 square feet 9,148sqft lot 9,148 square foot lot\",\n    \"address\": \"517 Bulger Ave Fostoria, OH 44830\"\n  },\n  {\n    \"broker\": \"Brokered by Howard Hanna - Crocker Road\",\n    \"status\": \"House for sale\",\n    \"price\": \"$1,950,000\",\n    \"feature\": \"3 bed 4.5 bath 1.22acre lot 1.22 acre lot\",\n    \"address\": \"30734 Lake Rd Bay Village, OH 44140\"\n  },\n  {\n    \"broker\": \"Brokered by Heart of It All\",\n    \"status\": \"House for sale\",\n    \"price\": \"$550,000\",\n    \"feature\": \"5 bed 4 bath 4,423sqft 4,423 square feet 1.5acre lot 1.5 acre lot\",\n    \"address\": \"7075 Riverside Dr Dublin, OH 43016\"\n  },\n  {\n    \"broker\": \"Brokered by Berkshire Hathaway HomeServices Professional Realty\",\n    \"status\": \"House for sale\",\n    \"price\": \"$267,500\",\n    \"feature\": \"3 bed 2 bath 2,882sqft 2,882 square feet 0.49acre lot 0.49 acre lot\",\n    \"address\": \"4679 State Route 60 Marietta, OH 45750\"\n  },\n  {\n    \"broker\": \"Brokered by Brokers Realty Group\",\n    \"status\": \"Pending\",\n    \"price\": \"$284,900\",\n    \"feature\": \"4 bed 2.5 bath 2,247sqft 2,247 square feet 1acre lot 1 acre lot\",\n    \"address\": \"1295 Albright McKay Rd NE Brookfield, OH 44403\"\n  },\n  {\n    \"broker\": \"Brokered by Nav X Realty, LLC\",\n    \"status\": \"House for sale\",\n    \"price\": \"$234,900\",\n    \"feature\": \"3 bed 2 bath 1,729sqft 1,729 square feet 0.25acre lot 0.25 acre lot\",\n    \"address\": \"624 Monteray Ave Dayton, OH 45419\"\n  },\n  {\n    \"broker\": \"Brokered by Keller Williams Advisors\",\n    \"status\": \"House for sale\",\n    \"price\": \"$282,500\",\n    \"feature\": \"4 bed 3 bath 2,166sqft 2,166 square feet 0.73acre lot 0.73 acre lot\",\n    \"address\": \"2734 Struble Rd Cincinnati, OH 45231\"\n  },\n  {\n    \"broker\": \"Brokered by Springboro Office - Coldwell Banker Heritage\",\n    \"status\": \"Pending\",\n    \"price\": \"$189,900\",\n    \"feature\": \"3 bed 2 bath 1,196sqft 1,196 square feet 0.58acre lot 0.58 acre lot\",\n    \"address\": \"10270 Eby Rd Germantown, OH 45327\"\n  },\n  {\n    \"broker\": \"Brokered by Keller Williams Greater Columbus Realty\",\n    \"status\": \"House for sale\",\n    \"price\": \"$475,000\",\n    \"feature\": \"3 bed 1 bath 2,304sqft 2,304 square feet 15.54acre lot 15.54 acre lot\",\n    \"address\": \"13126 Blue Jay Rd SE Newark, OH 43056\"\n  },\n  {\n    \"broker\": \"Brokered by Craig A. Miley Realty & Auction\",\n    \"status\": \"House for sale\",\n    \"price\": \"$284,900\",\n    \"feature\": \"3 bed 2 bath 1,640sqft 1,640 square feet 5.6acre lot 5.6 acre lot\",\n    \"address\": \"3691 McCurdy Rd Bucyrus, OH 44820\"\n  },\n  {\n    \"broker\": \"Brokered by Keller Williams Grt Cleve Ne\",\n    \"status\": \"House for sale\",\n    \"price\": \"$160,000\",\n    \"feature\": \"4 bed 2.5 bath 2,434sqft 2,434 square feet 0.56acre lot 0.56 acre lot\",\n    \"address\": \"8566 Barbara Dr Mentor, OH 44060\"\n  },\n  {\n    \"broker\": \"Brokered by Plum Tree Realty\",\n    \"status\": \"House for sale\",\n    \"price\": \"$489,000\",\n    \"feature\": \"3 bed 3 bath 2,000sqft 2,000 square feet 1.84acre lot 1.84 acre lot\",\n    \"address\": \"11300 Dogleg Rd Tipp City, OH 45371\"\n  },\n  {\n    \"broker\": \"Brokered by Reign Realty LLC\",\n    \"status\": \"House for sale\",\n    \"price\": \"$175,000\",\n    \"feature\": \"3 bed 0.5+ bath 1,470sqft 1,470 square feet 0.39acre lot 0.39 acre lot\",\n    \"address\": \"3386 Old State Route 123 Clearcreek Township, OH 45036\"\n  },\n  {\n    \"broker\": \"Brokered by Auction Ohio\",\n    \"status\": \"Condo for sale\",\n    \"price\": \"$120,000\",\n    \"feature\": \"3 bed 2 bath 1,176sqft 1,176 square feet 1,307sqft lot 1,307 square foot lot\",\n    \"address\": \"3642 Preamble Ln Columbus, OH 43207\"\n  },\n  {\n    \"broker\": \"\",\n    \"status\": \"House for sale\",\n    \"price\": \"$449,000\",\n    \"feature\": \"2 bed 2 bath 1,491sqft 1,491 square feet 8,281sqft lot 8,281 square foot lot\",\n    \"address\": \"1867 N Fernwood Ln Marblehead, OH 43440\"\n  },\n  {\n    \"broker\": \"Brokered by Realty ONE Group Refined\",\n    \"status\": \"Coming Soon\",\n    \"price\": \"$709,900\",\n    \"feature\": \"4 bed 3.5 bath 4,014sqft 4,014 square feet 1.81acre lot 1.81 acre lot\",\n    \"address\": \"1925 Winding Oak Dr NW Baltimore, OH 43105\"\n  },\n  {\n    \"broker\": \"Brokered by COLDWELL BANKER SCHMIDT REALTY\",\n    \"status\": \"Contingent\",\n    \"price\": \"$209,900\",\n    \"feature\": \"5 bed 1 bath 1,539sqft 1,539 square feet 0.63acre lot 0.63 acre lot\",\n    \"address\": \"10090 Valleyview Dr Columbia Station, OH 44028\"\n  },\n  {\n    \"broker\": \"Brokered by Howard Hanna - Perrysburg Downtown\",\n    \"status\": \"House for sale\",\n    \"price\": \"$439,900\",\n    \"feature\": \"4 bed 3.5 bath 2,838sqft 2,838 square feet 0.78acre lot 0.78 acre lot\",\n    \"address\": \"115 Secor Woods Ln Perrysburg, OH 43551\"\n  },\n  {\n    \"broker\": \"Brokered by Reiser Realty\",\n    \"status\": \"Coming Soon\",\n    \"price\": \"$215,000\",\n    \"feature\": \"3 bed 1.5 bath 2,298sqft 2,298 square feet 1acre lot 1 acre lot\",\n    \"address\": \"10510 County Road P3 Napoleon, OH 43545\"\n  },\n  {\n    \"broker\": \"Brokered by Zimmerman Realty, Ltd.\",\n    \"status\": \"Farm for sale\",\n    \"price\": \"$350,000\",\n    \"feature\": \"2 bed 1.5 bath 1,188sqft 1,188 square feet 10acre lot 10 acre lot\",\n    \"address\": \"1027 N Township Road 31 Bellefontaine, OH 43311\"\n  },\n  {\n    \"broker\": \"Brokered by McDowell Real Estate\",\n    \"status\": \"Mobile house for sale\",\n    \"price\": \"$59,900\",\n    \"feature\": \"2 bed 1 bath 1.15acre lot 1.15 acre lot\",\n    \"address\": \"4207 New London Rd Geneva, OH 44041\"\n  },\n  {\n    \"broker\": \"Brokered by Home Experts Realty\",\n    \"status\": \"Pending\",\n    \"price\": \"$110,000\",\n    \"feature\": \"3 bed 2 bath 8,263sqft lot 8,263 square foot lot\",\n    \"address\": \"219 Ashwood Ave Dayton, OH 45405\"\n  },\n  {\n    \"broker\": \"Brokered by Burgan Real Estate, LTD.\",\n    \"status\": \"Multi-family home for sale\",\n    \"price\": \"$164,800\",\n    \"feature\": \"4 bed 3 bath 1,819sqft 1,819 square feet 0.57acre lot 0.57 acre lot\",\n    \"address\": \"6178 Warren Sharon Rd Brookfield, OH 44403\"\n  },\n  {\n    \"broker\": \"Brokered by North Bay Realty\",\n    \"status\": \"Coming Soon\",\n    \"price\": \"$648,900\",\n    \"feature\": \"6 bed 3.5 bath 3,171sqft 3,171 square feet 0.67acre lot 0.67 acre lot\",\n    \"address\": \"4311 Walnut Creek Ln Sandusky, OH 44870\"\n  },\n  {\n    \"broker\": \"Brokered by OLD COLONY, REALTORS\",\n    \"status\": \"House for sale\",\n    \"price\": \"$235,000\",\n    \"feature\": \"3 bed 3 bath 2,100sqft 2,100 square feet 9,148sqft lot 9,148 square foot lot\",\n    \"address\": \"86 Township Road 1357 South Point, OH 45680\"\n  },\n  {\n    \"broker\": \"Brokered by Leonard and Newland Real Estate Services\",\n    \"status\": \"House for sale\",\n    \"price\": \"$459,900\",\n    \"feature\": \"3 bed 1 bath 0.35acre lot 0.35 acre lot\",\n    \"address\": \"316 Saint Andrews Ln Senecaville, OH 43780\"\n  },\n  {\n    \"broker\": \"Brokered by Key Realty Ltd\",\n    \"status\": \"Coming Soon\",\n    \"price\": \"$179,900\",\n    \"feature\": \"3 bed 2 bath 1,100sqft 1,100 square feet 6,551sqft lot 6,551 square foot lot\",\n    \"address\": \"101 Silver Maple Dr Perrysburg, OH 43551\"\n  },\n  {\n    \"broker\": \"Brokered by Red 1 Realty\",\n    \"status\": \"Land for sale\",\n    \"price\": \"$109,900\",\n    \"feature\": \"17.73acre lot 17.73 acre lot\",\n    \"address\": \"State Route 139 Oak Hill, OH 45656\"\n  },\n  {\n    \"broker\": \"Brokered by Byce Realty\",\n    \"status\": \"House for sale\",\n    \"price\": \"$229,000\",\n    \"feature\": \"4 bed 2.5 bath 1,899sqft 1,899 square feet 69acre lot 69 acre lot\",\n    \"address\": \"890 Royal Arms Dr Girard, OH 44420\"\n  },\n  {\n    \"broker\": \"Brokered by RE MAX Capital Centre Inc Realtors\",\n    \"status\": \"Coming Soon\",\n    \"price\": \"$724,900\",\n    \"feature\": \"3 bed 1.5 bath 1,514sqft 1,514 square feet 0.3acre lot 0.3 acre lot\",\n    \"address\": \"217 Canyon Dr Columbus, OH 43214\"\n  },\n  {\n    \"broker\": \"Brokered by The Agency Cleveland Northcoast\",\n    \"status\": \"House for sale\",\n    \"price\": \"$4,425,000\",\n    \"feature\": \"6 bed 7.5+ bath 12,516sqft 12,516 square feet 14.15acre lot 14.15 acre lot\",\n    \"address\": \"7265 Markell Rd Waite Hill, OH 44094\"\n  },\n  {\n    \"broker\": \"Brokered by RE MAX Above & Beyond\",\n    \"status\": \"House for sale\",\n    \"price\": \"$285,000\",\n    \"feature\": \"3 bed 3 bath 3,432sqft 3,432 square feet 2.09acre lot 2.09 acre lot\",\n    \"address\": \"6100 Royalwood Rd North Royalton, OH 44133\"\n  },\n  {\n    \"broker\": \"Brokered by Howard Hanna Real Estate Services - Grove City\",\n    \"status\": \"Coming Soon\",\n    \"price\": \"$399,900\",\n    \"feature\": \"4 bed 2 bath 2,158sqft 2,158 square feet 0.38acre lot 0.38 acre lot\",\n    \"address\": \"4596 Gershwin Ct Grove City, OH 43123\"\n  },\n  {\n    \"broker\": \"Brokered by Ohio Real Estate Auctions\",\n    \"status\": \"House for sale\",\n    \"price\": \"$175,000\",\n    \"feature\": \"3 bed 2.5 bath 1,400sqft 1,400 square feet 0.35acre lot 0.35 acre lot\",\n    \"address\": \"121 Woodfield Pl Centerville, OH 45459\"\n  },\n  {\n    \"broker\": \"Brokered by Red 1 Realty\",\n    \"status\": \"Coming Soon\",\n    \"price\": \"$200,000\",\n    \"feature\": \"3 bed 1 bath 1,264sqft 1,264 square feet 8,712sqft lot 8,712 square foot lot\",\n    \"address\": \"5276 Conklin Dr Hilliard, OH 43026\"\n  },\n  {\n    \"broker\": \"Brokered by Platinum Real Estate\",\n    \"status\": \"Pending\",\n    \"price\": \"$275,000\",\n    \"feature\": \"3 bed 2 bath 1,704sqft 1,704 square feet 4acre lot 4 acre lot\",\n    \"address\": \"685 Stony Hill Rd Hinckley, OH 44233\"\n  },\n  {\n    \"broker\": \"Brokered by Hill Real Estate\",\n    \"status\": \"Land for sale\",\n    \"price\": \"$199,900\",\n    \"feature\": \"7.75acre lot 7.75 acre lot\",\n    \"address\": \"10867 Township Road 56 NE Mount Perry, OH 43760\"\n  },\n  {\n    \"broker\": \"Brokered by Howard Hanna - Crocker Road\",\n    \"status\": \"Condo for sale\",\n    \"price\": \"$315,000\",\n    \"feature\": \"2 bed 2.5 bath 1,675sqft 1,675 square feet\",\n    \"address\": \"2589 Woodruff Ct Unit 2 Westlake, OH 44145\"\n  }\n]"
+[
+  {
+    "broker": "Brokered by Prodigy Properties, LLC",
+    "status": "House for sale",
+    "price": "$47,659",
+    "feature": "3 bed 2.5 bath 1,214sqft 1,214 square feet 9,148sqft lot 9,148 square foot lot",
+    "address": "440 Briarwood Dr Columbus, OH 43213"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Hudson",
+    "status": "House for sale",
+    "price": "$2,100,000",
+    "feature": "3 bed 5 bath 6,805sqft 6,805 square feet 20.4acre lot 20.4 acre lot",
+    "address": "1310 Connecticut Woods Dr Hudson, OH 44236"
+  },
+  {
+    "broker": "Brokered by CENTURY 21 Full Service Realty",
+    "status": "Contingent",
+    "price": "$459,000",
+    "feature": "3 bed 2 bath 4,054sqft 4,054 square feet 3.82acre lot 3.82 acre lot",
+    "address": "176 Dana Rd Newport, OH 45768"
+  },
+  {
+    "broker": "Brokered by Red Oak Realty",
+    "status": "House for sale",
+    "price": "$185,000",
+    "feature": "2 bed 1.5 bath 1,512sqft 1,512 square feet 1.44acre lot 1.44 acre lot",
+    "address": "15018 St Rt # 116 Van Wert, OH 45891"
+  },
+  {
+    "broker": "Brokered by Howard Hanna Premier R E",
+    "status": "House for sale",
+    "price": "$189,900",
+    "feature": "3 bed 2 bath 1,482sqft 1,482 square feet 0.91acre lot 0.91 acre lot",
+    "address": "8671 State Route 213 Toronto, OH 43964"
+  },
+  {
+    "broker": "Brokered by Sibcy Cline - Western Hills",
+    "status": "House for sale",
+    "price": "$7,900,000",
+    "feature": "8 bed 9.5+ bath 19,496sqft 19,496 square feet 17acre lot 17 acre lot",
+    "address": "8600 Camargo Rd Indian Hill, OH 45243"
+  },
+  {
+    "broker": "Brokered by American Heritage Realty, Inc.",
+    "status": "Contingent",
+    "price": "$99,900",
+    "feature": "5 bed 1 bath 1,664sqft 1,664 square feet 9,148sqft lot 9,148 square foot lot",
+    "address": "517 Bulger Ave Fostoria, OH 44830"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Crocker Road",
+    "status": "House for sale",
+    "price": "$1,950,000",
+    "feature": "3 bed 4.5 bath 1.22acre lot 1.22 acre lot",
+    "address": "30734 Lake Rd Bay Village, OH 44140"
+  },
+  {
+    "broker": "Brokered by Berkshire Hathaway HomeServices Professional Realty",
+    "status": "House for sale",
+    "price": "$267,500",
+    "feature": "3 bed 2 bath 2,882sqft 2,882 square feet 0.49acre lot 0.49 acre lot",
+    "address": "4679 State Route 60 Marietta, OH 45750"
+  },
+  {
+    "broker": "Brokered by Brokers Realty Group",
+    "status": "Pending",
+    "price": "$284,900",
+    "feature": "4 bed 2.5 bath 2,247sqft 2,247 square feet 1acre lot 1 acre lot",
+    "address": "1295 Albright McKay Rd NE Brookfield, OH 44403"
+  },
+  {
+    "broker": "Brokered by Nav X Realty, LLC",
+    "status": "House for sale",
+    "price": "$234,900",
+    "feature": "3 bed 2 bath 1,729sqft 1,729 square feet 0.25acre lot 0.25 acre lot",
+    "address": "624 Monteray Ave Dayton, OH 45419"
+  },
+  {
+    "broker": "Brokered by The Danberry Co.",
+    "status": "House for sale",
+    "price": "$485,000",
+    "feature": "5 bed 2.5 bath 2,722sqft 2,722 square feet 2.17acre lot 2.17 acre lot",
+    "address": "4363 Wile Rd Wooster, OH 44691"
+  },
+  {
+    "broker": "Brokered by Keller Williams Greater Columbus Realty",
+    "status": "House for sale",
+    "price": "$475,000",
+    "feature": "3 bed 1 bath 2,304sqft 2,304 square feet 15.54acre lot 15.54 acre lot",
+    "address": "13126 Blue Jay Rd SE Newark, OH 43056"
+  },
+  {
+    "broker": "Brokered by Craig A. Miley Realty & Auction",
+    "status": "House for sale",
+    "price": "$284,900",
+    "feature": "3 bed 2 bath 1,640sqft 1,640 square feet 5.6acre lot 5.6 acre lot",
+    "address": "3691 McCurdy Rd Bucyrus, OH 44820"
+  },
+  {
+    "broker": "",
+    "status": "House for sale",
+    "price": "$449,000",
+    "feature": "2 bed 2 bath 1,491sqft 1,491 square feet 8,281sqft lot 8,281 square foot lot",
+    "address": "1867 N Fernwood Ln Marblehead, OH 43440"
+  },
+  {
+    "broker": "Brokered by Realty ONE Group Refined",
+    "status": "Coming Soon",
+    "price": "$709,900",
+    "feature": "4 bed 3.5 bath 4,014sqft 4,014 square feet 1.81acre lot 1.81 acre lot",
+    "address": "1925 Winding Oak Dr NW Baltimore, OH 43105"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Pepper Pike",
+    "status": "Pending",
+    "price": "$839,000",
+    "feature": "5 bed 5.5 bath 5,892sqft 5,892 square feet 1.23acre lot 1.23 acre lot",
+    "address": "175 Honeybelle Oval Orange, OH 44022"
+  },
+  {
+    "broker": "Brokered by COLDWELL BANKER SCHMIDT REALTY",
+    "status": "Contingent",
+    "price": "$209,900",
+    "feature": "5 bed 1 bath 1,539sqft 1,539 square feet 0.63acre lot 0.63 acre lot",
+    "address": "10090 Valleyview Dr Columbia Station, OH 44028"
+  },
+  {
+    "broker": "Brokered by Reiser Realty",
+    "status": "Coming Soon",
+    "price": "$215,000",
+    "feature": "3 bed 1.5 bath 2,298sqft 2,298 square feet 1acre lot 1 acre lot",
+    "address": "10510 County Road P3 Napoleon, OH 43545"
+  },
+  {
+    "broker": "Brokered by McDowell Real Estate",
+    "status": "Mobile house for sale",
+    "price": "$59,900",
+    "feature": "2 bed 1 bath 1.15acre lot 1.15 acre lot",
+    "address": "4207 New London Rd Geneva, OH 44041"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Canfield",
+    "status": "Contingent",
+    "price": "$145,000",
+    "feature": "3 bed 2 bath 1,468sqft 1,468 square feet 0.92acre lot 0.92 acre lot",
+    "address": "1434 Howell Rd East Palestine, OH 44413"
+  },
+  {
+    "broker": "Brokered by OLD COLONY, REALTORS",
+    "status": "House for sale",
+    "price": "$235,000",
+    "feature": "3 bed 3 bath 2,100sqft 2,100 square feet 9,148sqft lot 9,148 square foot lot",
+    "address": "86 Township Road 1357 South Point, OH 45680"
+  },
+  {
+    "broker": "Brokered by Jbs Realty",
+    "status": "House for sale",
+    "price": "$220,000",
+    "feature": "4 bed 2 bath 1.16acre lot 1.16 acre lot",
+    "address": "7800 Summerset Dr Walton Hills, OH 44146"
+  },
+  {
+    "broker": "Brokered by Russell Real Estate Services",
+    "status": "Pending",
+    "price": "$70,000",
+    "feature": "5 bed 2 bath 0.26acre lot 0.26 acre lot",
+    "address": "4595 E 104th St Garfield Heights, OH 44125"
+  },
+  {
+    "broker": "Brokered by Leonard and Newland Real Estate Services",
+    "status": "House for sale",
+    "price": "$459,900",
+    "feature": "3 bed 1 bath 0.35acre lot 0.35 acre lot",
+    "address": "316 Saint Andrews Ln Senecaville, OH 43780"
+  },
+  {
+    "broker": "Brokered by Key Realty Ltd",
+    "status": "Coming Soon",
+    "price": "$179,900",
+    "feature": "3 bed 2 bath 1,100sqft 1,100 square feet 6,551sqft lot 6,551 square foot lot",
+    "address": "101 Silver Maple Dr Perrysburg, OH 43551"
+  },
+  {
+    "broker": "Brokered by Rosen & Co., Inc.",
+    "status": "House for sale",
+    "price": "$150,000",
+    "feature": "3 bed 2 bath 0.51acre lot 0.51 acre lot",
+    "address": "351 Starview Dr Brunswick, OH 44212"
+  },
+  {
+    "broker": "Brokered by Red 1 Realty",
+    "status": "Land for sale",
+    "price": "$109,900",
+    "feature": "17.73acre lot 17.73 acre lot",
+    "address": "State Route 139 Oak Hill, OH 45656"
+  },
+  {
+    "broker": "Brokered by Byce Realty",
+    "status": "House for sale",
+    "price": "$229,000",
+    "feature": "4 bed 2.5 bath 1,899sqft 1,899 square feet 69acre lot 69 acre lot",
+    "address": "890 Royal Arms Dr Girard, OH 44420"
+  },
+  {
+    "broker": "Brokered by RE MAX Capital Centre Inc Realtors",
+    "status": "Coming Soon",
+    "price": "$724,900",
+    "feature": "3 bed 1.5 bath 1,514sqft 1,514 square feet 0.3acre lot 0.3 acre lot",
+    "address": "217 Canyon Dr Columbus, OH 43214"
+  },
+  {
+    "broker": "Brokered by The Agency Cleveland Northcoast",
+    "status": "House for sale",
+    "price": "$4,425,000",
+    "feature": "6 bed 7.5+ bath 12,516sqft 12,516 square feet 14.15acre lot 14.15 acre lot",
+    "address": "7265 Markell Rd Waite Hill, OH 44094"
+  },
+  {
+    "broker": "Brokered by Keller Williams Citywide",
+    "status": "House for sale",
+    "price": "$499,000",
+    "feature": "3 bed 3.5 bath 1,935sqft 1,935 square feet 0.39acre lot 0.39 acre lot",
+    "address": "8350 Hunting Dr North Royalton, OH 44133"
+  },
+  {
+    "broker": "Brokered by RE MAX Above & Beyond",
+    "status": "House for sale",
+    "price": "$285,000",
+    "feature": "3 bed 3 bath 3,432sqft 3,432 square feet 2.09acre lot 2.09 acre lot",
+    "address": "6100 Royalwood Rd North Royalton, OH 44133"
+  },
+  {
+    "broker": "Brokered by Berkshire Hathaway HomeServices Stouffer Realty",
+    "status": "House for sale",
+    "price": "$349,900",
+    "feature": "3 bed 2.5 bath 0.46acre lot 0.46 acre lot",
+    "address": "789 Lindenwood Ln Medina, OH 44256"
+  },
+  {
+    "broker": "Brokered by Howard Hanna Real Estate Services - Grove City",
+    "status": "Coming Soon",
+    "price": "$399,900",
+    "feature": "4 bed 2 bath 2,158sqft 2,158 square feet 0.38acre lot 0.38 acre lot",
+    "address": "4596 Gershwin Ct Grove City, OH 43123"
+  },
+  {
+    "broker": "Brokered by Ohio Real Estate Auctions",
+    "status": "House for sale",
+    "price": "$175,000",
+    "feature": "3 bed 2.5 bath 1,400sqft 1,400 square feet 0.35acre lot 0.35 acre lot",
+    "address": "121 Woodfield Pl Centerville, OH 45459"
+  },
+  {
+    "broker": "Brokered by Red 1 Realty",
+    "status": "Coming Soon",
+    "price": "$200,000",
+    "feature": "3 bed 1 bath 1,264sqft 1,264 square feet 8,712sqft lot 8,712 square foot lot",
+    "address": "5276 Conklin Dr Hilliard, OH 43026"
+  },
+  {
+    "broker": "Brokered by Coldwell Banker Realty",
+    "status": "Contingent",
+    "price": "$179,900",
+    "feature": "2 bed 1 bath 1,020sqft 1,020 square feet 0.93acre lot 0.93 acre lot",
+    "address": "18642 State Route 347 Broadway, OH 43067"
+  },
+  {
+    "broker": "Brokered by Platinum Real Estate",
+    "status": "Pending",
+    "price": "$275,000",
+    "feature": "3 bed 2 bath 1,704sqft 1,704 square feet 4acre lot 4 acre lot",
+    "address": "685 Stony Hill Rd Hinckley, OH 44233"
+  },
+  {
+    "broker": "Brokered by Hill Real Estate",
+    "status": "Land for sale",
+    "price": "$199,900",
+    "feature": "7.75acre lot 7.75 acre lot",
+    "address": "10867 Township Road 56 NE Mount Perry, OH 43760"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Crocker Road",
+    "status": "Condo for sale",
+    "price": "$315,000",
+    "feature": "2 bed 2.5 bath 1,675sqft 1,675 square feet",
+    "address": "2589 Woodruff Ct Unit 2 Westlake, OH 44145"
+  },
+  {
+    "broker": "",
+    "status": "Pending",
+    "price": "$320,000",
+    "feature": "5 bed 2 bath 2,020sqft 2,020 square feet 0.26acre lot 0.26 acre lot",
+    "address": "3315 Higley Rd Rocky River, OH 44116"
+  }
+]
